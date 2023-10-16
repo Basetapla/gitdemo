@@ -1,0 +1,2 @@
+file from master
+line added after moving file to staging area
